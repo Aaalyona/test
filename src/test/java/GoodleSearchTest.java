@@ -32,5 +32,7 @@ public class GoodleSearchTest {
         int amountOfResultsParsed = Integer.parseInt(amountOfResultsFixes);
         Assert.assertTrue(amountOfResultsParsed>100);
 
+
+
     }
 }
